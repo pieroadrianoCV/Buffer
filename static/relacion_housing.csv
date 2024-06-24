@@ -1,0 +1,13 @@
+price,int
+area,int
+bedrooms,int
+bathrooms,int
+stories,int
+mainroad,string
+guestroom,string
+basement,string
+hotwaterheating,string
+airconditioning,string
+parking,int
+prefarea,string
+furnishingstatus,string
